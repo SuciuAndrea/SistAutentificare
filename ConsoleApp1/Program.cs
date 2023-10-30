@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             const string usernameCorect = "Andreea";
-            const string parolaCorecta = "Good to be alive";
+            const string parolaCorecta = "Cata";
 
             bool autentificat = false;
 
